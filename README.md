@@ -28,7 +28,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Paper Goods Management Infosystem</h3>
+  <h3 align="center">Paper Goods Management InfoSystem</h3>
 
   <p align="center">
     Building a website in cPanel using the HTML, CSS, PHP and JavaScript.
