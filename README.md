@@ -105,7 +105,7 @@ Please feel free to explore the contents of this website by visiting the followi
 <br>
 You can login to the website using the admin account.
 <br><br>ID
-```
+```{r}
 admin@admin.com
 ```
 PW
