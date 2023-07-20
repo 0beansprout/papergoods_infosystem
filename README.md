@@ -102,6 +102,16 @@ The project's objective is to create a product management website using cPanel o
 
 Please feel free to explore the contents of this website by visiting the following [link](http://pgsalesmgmt.com/home/).
 
+<br>
+You can login to the website using the admin account.
+<br><br>ID
+```
+admin@admin.com
+```
+PW
+```
+admin123
+```
 
 
 <!-- ### Prerequisites
