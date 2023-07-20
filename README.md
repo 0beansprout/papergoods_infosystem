@@ -104,17 +104,20 @@ Please feel free to explore the contents of this website by visiting the followi
 
 <br>
 You can login to the website using the admin account.
-<br><br>ID
-```{r}
-admin@admin.com
-```
-PW
-```
-admin123
-```
+<br><br>
 
+* ID
+  ```sh
+   admin@admin.com
+  ```
 
-<!-- ### Prerequisites
+* PW
+  ```sh
+    admin123
+  ```
+
+<!--
+ ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -129,8 +132,8 @@ This is an example of how to list things you need to use the software and how to
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
-``` -->
-
+``` 
+-->
 
 <!-- USAGE EXAMPLES -->
 ## Usage
