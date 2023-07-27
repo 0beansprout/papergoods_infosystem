@@ -108,12 +108,12 @@ You can login to the website using the admin account.
 
 * ID
   ```sh
-   admin@admin.com
+  admin@admin.com
   ```
 
 * PW
   ```sh
-    abc123
+  abc123
   ```
 
 <!--
