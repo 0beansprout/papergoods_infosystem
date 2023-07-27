@@ -113,7 +113,7 @@ You can login to the website using the admin account.
 
 * PW
   ```sh
-    admin123
+    abc123
   ```
 
 <!--
